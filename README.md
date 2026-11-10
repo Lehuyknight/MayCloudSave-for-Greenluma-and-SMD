@@ -1,65 +1,67 @@
 # ☁️ MayCloudSave-portable
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
-</p>
-
-<p align="center">
-  <b>Giải pháp đồng bộ hóa dữ liệu lưu trữ Game & Mod tự động dành riêng cho cộng đồng Greenluma & SMD.</b>
+  🌐 <b>English</b> | <a href="./README.VN.md">Tiếng Việt</a>
 </p>
 
 ---
 
-## 📌 Giới thiệu
+**An automated cloud save & mod backup solution tailored for the Greenluma & SMD community.**
 
-**MayCloudSave-portable** là ứng dụng giúp tự động hóa việc lưu trữ, sao lưu và đồng bộ dữ liệu game giữa nhiều máy tính khác nhau. Được tối ưu hóa đặc biệt dành cho người dùng **Greenluma** và **SMD**, ứng dụng đảm bảo tiến trình chơi game cũng như các bản mod của bạn luôn được đồng bộ an toàn trên đám mây.
+## 📌 About
+
+**MayCloudSave-portable** is a lightweight, portable application designed to automate the backup and synchronization of your game data across multiple PCs. Optimized specifically for **Greenluma** and **SMD** users, it ensures your game saves and mods are always safely synced to the cloud without manual hassle.
+
+## ✨ Features
+
+* 🎮 **Optimized for Greenluma & SMD:** Built-in compatibility and seamless integration with Greenluma & SMD tools.
+
+* 🔄 **Multi-Device Sync:** Seamlessly keep your game progress in sync across different computers.
+
+* 📦 **Mod & Workshop Support:** Syncs not only your save files, but also your mods and `appmanifest / workshop.acf` configurations.
+
+* 🔍 **Automatic Steam Scanner:** Automatically detects and scans existing titles in your local Steam library.
+
+* ⚡ **Real-Time Auto-Sync:** Monitors running game processes and instantly uploads data to the cloud as soon as you exit the game.
+
+* 🎁 **Free Storage:** Quick registration rewards you with **1GB of free cloud storage**.
+
+* 🚀 **Portable & Lightweight:** No installation required—just extract and run anywhere.
+
+## 🚀 Quick Start
+
+### 1. Installation
+
+1. Download the latest release from the [Releases](../../releases) tab.
+
+2. Extract the `MayCloudSave-portable` archive to any directory.
+
+3. Run `MayCloudSave.exe` to launch.
+
+### 2. Basic Usage
+
+1. **Sign Up / Log In:** Create a new account to claim your **1GB free cloud storage**.
+
+2. **Scan Games:** Run the auto-scan feature to discover installed Steam games.
+
+3. **Play & Sync:** Launch your game normally. Your save files and mods will automatically sync to the cloud right after you quit.
+
+## 🛠️ Requirements
+
+* **OS:** Windows 10 / 11 (64-bit)
+
+* **Internet:** Active connection required for cloud synchronization
+
+* **Prerequisites:** Steam client installed
+
+## 🤝 Contributing & Feedback
+
+Contributions, bug reports, and feature requests are very welcome!
+
+* Open an [Issue](../../issues) to report bugs or request features.
+
+* Submit a [Pull Request](../../pulls) to contribute directly to the code.
 
 ---
 
-## ✨ Tính năng nổi bật
-
-- 🎮 **Tối ưu cho Greenluma & SMD:** Tương thích hoàn hảo và hỗ trợ tối đa cho các công cụ Greenluma & SMD.
-- 🔄 **Đồng bộ đa thiết bị:** Dễ dàng đồng bộ tiến trình game (save file) mượt mà giữa các máy tính khác nhau.
-- 📦 **Đồng bộ Mod & Workshop:** Không chỉ lưu file save, ứng dụng còn hỗ trợ đồng bộ toàn bộ file mod và tệp cấu hình `appmanifest / workshop.acf`.
-- 🔍 **Tự động quét Steam:** Tự động phát hiện và quét danh sách các tựa game có sẵn trong thư viện Steam của bạn.
-- ⚡ **Theo dõi & Đồng bộ thời gian thực:** Tự động giám sát quá trình chạy game và lập tức tải dữ liệu lên đám mây ngay khi bạn thoát game.
-- 🎁 **Dung lượng miễn phí:** Đăng ký tài khoản dễ dàng và nhận ngay **1GB** dung lượng lưu trữ đám mây miễn phí.
-- 🚀 **Phiên bản Portable:** Không cần cài đặt rườm rà, chỉ cần giải nén và sử dụng ngay lập tức.
-
----
-
-## 🚀 Hướng dẫn nhanh
-
-### 1. Cài đặt & Khởi chạy
-1. Tải về phiên bản mới nhất tại mục [Releases](../../releases).
-2. Giải nén thư mục `MayCloudSave-portable`.
-3. Chạy file `MayCloudSave.exe` để bắt đầu.
-
-### 2. Sử dụng
-1. **Đăng ký / Đăng nhập:** Tạo tài khoản mới để kích hoạt **1GB** lưu trữ đám mây miễn phí.
-2. **Quét Game:** Chọn tính năng quét tự động để ứng dụng tìm các game Steam hiện có.
-3. **Chơi & Đồng bộ:** Mở game và trải nghiệm bình thường. Hệ thống sẽ tự động đồng bộ dữ liệu save & mod lên mây ngay khi game kết thúc.
-
----
-
-## 🛠️ Yêu cầu hệ thống
-
-- **Hệ điều hành:** Windows 10 / 11 (64-bit)
-- **Kết nối Internet:** Bắt buộc để đồng bộ dữ liệu đám mây
-- **Nền tảng phụ thuộc:** Steam (đã cài đặt)
-
----
-
-## 🤝 Đóng góp & Phản hồi
-
-Mọi đóng góp, báo lỗi (Issue) hoặc góp ý tính năng mới đều được hoan nghênh! 
-- Tạo [Issue](../../issues) nếu bạn gặp sự cố.
-- Gửi [Pull Request](../../pulls) nếu bạn muốn đóng góp mã nguồn.
-
----
-
-<p align="center">
-  Made with ❤️ for gamers.
-</p>
+<p align="center">Made with ❤️ for gamers.</p>
