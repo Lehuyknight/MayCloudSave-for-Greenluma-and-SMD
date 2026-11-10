@@ -1,0 +1,5 @@
+# Repo chỉ giữ README để trang tải release.
+# Toàn bộ mã nguồn / build nằm ngoài git.
+*
+!.gitignore
+!README.md
